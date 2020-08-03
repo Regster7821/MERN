@@ -1,0 +1,16 @@
+*{
+  font-family: sans-serif;
+}
+
+.App{
+  margin-left: 550px;
+  padding-top: 10px;
+}
+
+.PersonCard{
+  background-color: lightgray;
+  display: block;
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}

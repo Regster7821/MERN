@@ -1,0 +1,17 @@
+*{
+  font-family: sans-serif;
+}
+
+.App{
+  text-align: center;
+}
+
+.styled-hello{
+  background-color: red;
+  color: blue;
+  padding: 50px 0px 50px 0px;
+}
+
+button{
+  padding: 5px;
+}
